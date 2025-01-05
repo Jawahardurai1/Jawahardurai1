@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📝 I update my codes in [https://jawahar55.blogspot.com/](https://jawahar55.blogspot.com/)
+- 📝 I update my codes in [Jawahar D  @blogspot](https://jawahar55.blogspot.com/)
 
 - 📫 How to reach me **jawahardurai7373@gmail.com**
 
