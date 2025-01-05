@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **jawahardurai7373@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18j-duPLRGXiXA7iE2QFvSYQeish1tEsv/view?usp=sharing](https://drive.google.com/file/d/18j-duPLRGXiXA7iE2QFvSYQeish1tEsv/view?usp=sharing)
-
+- 📄 Know about my experiences [Jawahar D](https://drive.google.com/file/d/1P9zyG8WoFZg4zu3yAw_kOiWokWH0vDZg/view?usp=drive_link)
 - ⚡ Fun fact **love doesn’t just warm your heart — it can also make you feel a little less pain in the process. 💖😊**
 
 <h3 align="left">Connect with me:</h3>
