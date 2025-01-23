@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jawahar d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jawahar d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jawahar-d-680192294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jawahar d" height="30" width="40" /></a>
 <a href="https://instagram.com/jawahxr_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jawahxr_._" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jᴀᴡᴀʜᴀʀ d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jᴀᴡᴀʜᴀʀ d" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/jawahardurai7373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jᴀᴡᴀʜᴀʀ d" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jawahar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jawahar_" height="30" width="40" /></a>
 </p>
 
