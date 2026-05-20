@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jawahxr!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 📝 I update my codes in [https://jawahar55.blogspot.com/](https://jawahar55.blogspot.com/)
-
+- 💼 LinkedIn: **https://www.linkedin.com/in/jawahar-duraisamy**
 - 📫 How to reach me **jawahardurai7373@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/18j-duPLRGXiXA7iE2QFvSYQeish1tEsv/view?usp=sharing](https://drive.google.com/file/d/18j-duPLRGXiXA7iE2QFvSYQeish1tEsv/view?usp=sharing)
-
-- ⚡ Fun fact **love doesn’t just warm your heart — it can also make you feel a little less pain in the process. 💖😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
